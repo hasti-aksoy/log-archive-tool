@@ -2,6 +2,11 @@
 
 A simple Bash CLI tool that compresses log directories into timestamped `.tar.gz` archives.
 
+## Project URL
+
+https://roadmap.sh/projects/log-archive-tool 
+
+
 ## Features
 
 * Accepts a log directory as a command-line argument
